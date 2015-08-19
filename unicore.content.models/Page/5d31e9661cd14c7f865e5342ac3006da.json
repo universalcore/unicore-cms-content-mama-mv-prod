@@ -1,0 +1,36 @@
+{
+  "subtitle": "Danger signs at the birth ", 
+  "description": "Know when to get help", 
+  "language": "eng_GB", 
+  "title": "Danger signs at the birth", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:52:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-20T12:47:25.230864+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "7d5e3e55538c4161b5cacfa89cae5ac1", 
+    "7556b264bd7f4be5a61866096062acb3", 
+    "45f12ffe97614e1aa8a4075965ac5942", 
+    "c01e67213f5949f7a7019fa1d5a6a2dc", 
+    "305427400c0a4704af6ae49df00a080b", 
+    "e5b6fd80feaa44e5b8660ce9a0aaa911"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you notice any of these things happening, go to a health worker or health facility as soon as you can. \r\n\r\n**You:**\r\n\r\n -  If your waters have broken but you are not in labour after 6 hours\r\n\r\n -  Your contractions are lasting for over 12 hours, but the baby has not come yet\r\n\r\n -  You are bleeding heavily and the blood soaks more than 2 to 3 pads in 15 minutes\r\n\r\n -  Your placenta has not come out, and it is 1 hour after the birth of your baby\r\n\r\n**Your baby:**\r\n\r\n -  You notice that your baby does not cry at birth, or has difficulty breathing\r\n\r\n -  You notice that your baby cannot breastfeed\r\n\r\n -  You notice that your baby has a fever, or feels cold\r\n\r\n -  Your baby is very small (less than 1500 grams or born earlier than 32 weeks)\r\n\r\n -  Your baby has fits\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 48, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "danger-signs-birth", 
+  "uuid": "5d31e9661cd14c7f865e5342ac3006da"
+}

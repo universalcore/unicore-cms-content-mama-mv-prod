@@ -1,0 +1,36 @@
+{
+  "subtitle": "Why do I need vitamins?", 
+  "description": "Vitamins keep you in good shape", 
+  "language": "eng_GB", 
+  "title": "Why do I need vitamins?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:48:43+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-20T12:42:12.791454+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "fce82872ba79416ca2a3c49b1db1ed8c", 
+    "8f8490f1b3cf436f878f4ae5b4424644", 
+    "d7fb500bdc0c4040bb8dfc23950d632f", 
+    "db46cd6e07a44acbbf5dae95d9df8410", 
+    "9ee5a19b9638461589d2f0812fe48ed8", 
+    "e5b6fd80feaa44e5b8660ce9a0aaa911"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nVitamins are important in your diet, especially when you are pregnant. They help your baby to grow healthily and keep your body in good shape for becoming a mother. \r\n\r\nEat a variety of fresh food of different colours each day to get vitamins:\r\n\r\n - \tEggs, orange-coloured fruit and vegetables like mangoes and plantain, sweet potato or carrots. These foods contain vitamin A, which helps your baby's organs and body systems to develop.\r\n\r\n - \tBananas, sorghum and millet, chicken, pumpkin seeds, brown rice and green vegetables. These foods supply B vitamins to help your body use protein, fats, and carbohydrates (starches). They also help to form new red blood cells and develop the brain and nerves.\r\n\r\n - \tCitrus fruit like oranges and pineapple, vegetables like potatoes and tomatoes. These are all good sources of vitamin C, which is needed for repairing and growing skin and body tissue. It also helps growth and strengthens bones and teeth. \r\n\r\n - \tOily fish, cow\u2019s milk, beans, rice milk and eggs. These contain vitamin D, which helps to build bones and teeth and helps you to fight germs. Our bodies can also make vitamin D from sunlight.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 61, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-do-i-need-vitamins", 
+  "uuid": "cb2a3c968e9849b1a876ec52d30c3d65"
+}

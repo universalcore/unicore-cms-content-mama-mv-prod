@@ -1,0 +1,38 @@
+{
+  "subtitle": "Warning signs ", 
+  "description": "When to get medical help", 
+  "language": "eng_GB", 
+  "title": "Warning signs", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-02T08:43:17+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-20T12:32:45.904027+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "79002b70b3624620b7de02c8a5e29fa3", 
+    "8913796e630c49fc97882ecd1e2789bc", 
+    "6291f34a72174abaa33ce8c26a9d62c3", 
+    "ef769d21dcb24c0eb89bd942112d77cc", 
+    "e4febfb7a0a240fab88ab9aa36eaaaef", 
+    "e13dd2d8baa74766ab3abf0fff09c76a", 
+    "8ad256bb45f64434b45095e0f41fa013", 
+    "e5b6fd80feaa44e5b8660ce9a0aaa911"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYour body changes in many ways in pregnancy, and it is normal to wonder if you need to worry about any of these changes.\r\n\r\n**This is normal** Are you tired, feeling nauseous in the mornings, getting indigestion, having to pass urine more often? Is your skin changing? Are you feeling breathless? Welcome to pregnancy!\r\n\r\n**These are warning signs** See a health worker if you have any of these feelings:\r\n\r\n - \tPain in your belly\r\n\r\n - \tA high fever\r\n\r\n - \tA bad headache with blurred vision, and you are seeing spots in front of your eyes\r\n\r\n - \tFluid leaking from your vagina\r\n\r\n - \tPain when passing water\r\n\r\n - \tIf you are past 5 months in your pregnancy, and your baby has stopped kicking or is kicking much less\r\n\r\nIf you have heavy bleeding or bleeding with pain.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 82, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "warning-signs", 
+  "uuid": "c20118577cd946f59185f39757d08e1f"
+}

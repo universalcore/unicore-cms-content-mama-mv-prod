@@ -1,0 +1,35 @@
+{
+  "subtitle": "Check-ups after birth", 
+  "description": "Make sure you are both OK", 
+  "language": "eng_GB", 
+  "title": "Check-ups after birth", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T08:56:08+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-20T12:52:49.429530+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "7f2658afb17e42bf8b3f79aeae64a291", 
+    "501634f4cee446c98d331e1b9c6c41dc", 
+    "18bb924d49a0494ab50789c6b3956ade", 
+    "02de4d7882504fdc88413123f16f26fe", 
+    "a77bf6d9bc184ad58ed026ae1c1812b3"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. \r\n\r\nVisit the midwife with your baby at least once during week 1 and again when she is 6 weeks old. Remember, boys and girls need the same amount of check-ups.\r\n\r\nTake your baby to a midwife immediately if:\r\n\r\n -  Her belly is too cold or too hot\r\n\r\n -  She develops yellow eyes, hands and feet within the first day of his life\r\n\r\n -  She refuses to feed or sucks poorly\r\n\r\n -  She will not stop crying or if his cry sounds unusual\r\n\r\n -  She has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n -  She is wheezing, grunting, or breathing quickly \r\n\r\n -  She is vomiting after every feed for more than a day, or has a swollen belly\r\n\r\n -  The area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 34, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "check-ups-after-birth", 
+  "uuid": "7d5e3e55538c4161b5cacfa89cae5ac1"
+}

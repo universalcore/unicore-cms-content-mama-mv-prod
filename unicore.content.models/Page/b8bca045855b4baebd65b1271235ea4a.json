@@ -1,0 +1,36 @@
+{
+  "subtitle": "Is my baby growing well? ", 
+  "description": "Yes, if you see these signs", 
+  "language": "eng_GB", 
+  "title": "Is my baby growing well?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-02T09:02:49+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-20T12:58:19.655066+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "91ab2d79b59a44689d3079b25973a3b4", 
+    "254000f75a4c427592dafc096d9e971f", 
+    "4870aed7f1e14e8aa2fd956845cd1b27", 
+    "7c7836a0b7d446ea97aaced42335aa35", 
+    "5412f1ead24844fdbeb874ee798c4972", 
+    "a41fb5bbd7784e6999141375cd16decc"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nA baby who is growing well will be lively, full of energy and want to play. \r\n\r\nDoes he look straight at you? He may even smile at you! So you know he can see well. \r\n\r\nHave you noticed when you pick him up how much heavier he is getting? This shows that he is feeding well. \r\n\r\nDoes he turn towards new sounds? This means that he hears well.\r\n\r\nIf your baby is sleepy, lacks energy and does not want to play, then it is important that you take him to a health worker to see what is wrong. \r\n\r\nIf your baby has been sick or if you are worried about him, measure his upper arm every month with string. Mark the string, so you know how much he has grown the next time you measure him. If his arm gets bigger, then he is growing. If his arm stays the same or is smaller, he needs more food.\r\n\r\nRegular check-ups with a health worker will help you be sure that he is growing well. Try to take him to the postnatal clinic every month to be weighed. While you are there, you could ask the health worker any questions you have. Try to ask all your questions in 1 visit. This will save you time.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 16, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-growing-well", 
+  "uuid": "b8bca045855b4baebd65b1271235ea4a"
+}
